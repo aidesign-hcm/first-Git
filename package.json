@@ -1,0 +1,14 @@
+{
+  "name": "first-git",
+  "version": "1.0.0",
+  "description": "this project just want to try use GIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}
